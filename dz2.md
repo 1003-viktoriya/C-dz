@@ -4,4 +4,4 @@
 *Hi!*
 
 ## French
-Bounjourne!!
+*Bonjoure*
