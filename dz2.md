@@ -3,3 +3,5 @@
 ## English
 *Hi!*
 
+## French
+*Bonjoure*
