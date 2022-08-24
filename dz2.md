@@ -5,3 +5,6 @@
 
 ## French
 *Bonjoure*
+
+## Spanish
+*Buenos dias!*
