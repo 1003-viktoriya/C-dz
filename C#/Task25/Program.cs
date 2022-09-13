@@ -1,5 +1,10 @@
 ﻿Console.Write("Введите число A: ");
-int num = Convert.ToInt32(Console.ReadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число B: ");
-int num1 = Convert.ToInt32(Console.ReadLine());
-Console.Write($"{Math.Pow(num, num1)} ");
+int b = Convert.ToInt32(Console.ReadLine());
+int pow = 1;
+for ( i=1; i<b; i++; )
+{
+  pow *=a;
+}
+Console.WriteLine(pow);
