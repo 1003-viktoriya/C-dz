@@ -29,16 +29,16 @@ void PrintArray(int[]array)
     Console.WriteLine();
 }
 PrintArray(array);
-int sum = 0;
-int SumArray (int[]array);
+// int SumArray (int[]array);
+int count = 0;
 {
     for (int i=0; i<array.Length; i++)
     {
         if (array[i]%2 == 0)
-        sum++;
+        count++;
     }
-    return sum;
+    // return count;
 }
-sum = SumArray(array);
-Console.WriteLine(sum);
+// SumArray(array);
 
+Console.WriteLine(count);
